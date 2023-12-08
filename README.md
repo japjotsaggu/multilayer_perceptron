@@ -1,6 +1,8 @@
 # Multi-layer Perceptron
 
-A multi-layer perceptron is an artificial, feedforward neural network - meaning that the information moves through the network from the input layer, through the hidden layers, and finally to the output layer. The purpose of this repo is to provide an implementation of the backpropagation algorithm from the ground up and understand how it fits into the functioning of the neural network. 
+A multi-layer perceptron is an artificial, feedforward neural network - meaning that the information moves through the network from the input layer, through the hidden layers, and finally to the output layer. 
+
+The purpose of this repo is to provide an implementation of the backpropagation algorithm from the ground up and understand how it fits into the functioning of the neural network. 
 We use the XOR to test the functioning of the neural network and the role of backprop in capturing more complex non-linear relationship between inputs and outputs.
 
 ## Backpropagation 
